@@ -1,2 +1,6 @@
 # gitskills
-git skills readme new quick & simple
+<<<<<<< HEAD
+git skills readme new quick and simple
+=======
+git skills readme new quick and simple
+>>>>>>> testconflicts
