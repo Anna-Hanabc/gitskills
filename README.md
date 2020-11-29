@@ -1,2 +1,2 @@
 # gitskills
-git skills readme quick
+git skills readme new quick 
